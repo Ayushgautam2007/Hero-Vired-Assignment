@@ -2,7 +2,6 @@
 
 set -euo pipefail
 
-
 HOSTNAME=$(hostname)
 DATE=$(date "+%Y-%m-%d %H-%M-%S")
 
